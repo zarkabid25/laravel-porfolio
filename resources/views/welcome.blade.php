@@ -256,10 +256,10 @@
                                 <div class="position-relative mb-4">
                                     <i class="fa fa-arrow-right text-primary position-absolute" style="top: 3px; left: -24px;"></i>
                                     <h5 class="mb-1">Senior Software Engineer</h5>
-                                    <p class="mb-2"> Ozoned Digital | <small>Jul 2003 - Present</small></p>
+                                    <p class="mb-2"> Ozoned Digital | <small>Jul 2023 - Jul 2025</small></p>
                                     <p> Working as Senior Software Engineer. Ozoned Tech is Insurance Tech service provider software house. There major products are Jubilee Health Life Insurance
                                         (Pakistan, Kenya, Tanzania, Uganda) and Adam Jee.</p>
-                                </div>
+                                </div>  
                                 <div class="position-relative mb-4">
                                     <i class="fa fa-arrow-right text-primary position-absolute" style="top: 3px; left: -24px;"></i>
                                     <h5 class="mb-1"> PHP Laravel Developer</h5>
